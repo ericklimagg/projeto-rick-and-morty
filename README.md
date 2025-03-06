@@ -8,8 +8,8 @@
 
 <h3>Aprender e aplicar os seguintes conceitos fundamentais:</h3>
 <ul>
-  <li><strong>Estruturação de páginas web com HTML</strong>.</li>
-  <li><strong>Estilização e design responsivo com CSS</strong>.</li>
+  <li><strong>Estruturação de páginas web com HTML.</strong>.</li>
+  <li><strong>Estilização e design responsivo com CSS.</strong>.</li>
   <li><strong>Uso básico de JavaScript</strong> para interatividade e manipulação de conteúdo.</li>
 </ul>
 
